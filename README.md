@@ -55,11 +55,11 @@
 
 | Dashboard | Staking Vault |
 |:---------:|:-------------:|
-| ![Dashboard](../final-web3/public/dahs.png) | ![Staking](../final-web3/public/Staking.png) |
+| ![Dashboard](public/dahs.png) | ![Staking](public/Staking.png) |
 
 | The Forge | Black Market |
 |:---------:|:------------:|
-| ![Forge](../final-web3/public/forge.png) | ![Market](../final-web3/public/black.png) |
+| ![Forge](public/forge.png) | ![Market](public/black.png) |
 
 > *Note: Screenshots represent the simulation interface running on localhost.*
 
