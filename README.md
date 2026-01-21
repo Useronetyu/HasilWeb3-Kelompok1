@@ -7,7 +7,7 @@
 
 ## 👤 Author Information
 
-* **Name:** Ilham
+* **Name:** Mochamad Ilham Hansyil Alfauzi
 * **Student ID (NIM):** 230202767
 * **Class:** 5IKRB
 * **Institution:** Universitas Putra Bangsa
