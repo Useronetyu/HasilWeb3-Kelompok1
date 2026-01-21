@@ -12,6 +12,8 @@
 * **Class:** 5IKRB
 * **Institution:** Universitas Putra Bangsa
 * **Subject:** Cryptography
+* **Kelompok:** Kriptografi Kelompok 8
+* **Kontribusi:** PPT, Laporan, Website
 
 ---
 
